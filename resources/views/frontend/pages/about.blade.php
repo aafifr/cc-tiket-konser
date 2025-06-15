@@ -37,7 +37,7 @@
             <div class="mb-14">
                 <h2 class="text-3xl font-bold text-gradient mb-6">Siapa Kami</h2>
                 <p class="text-slate-700 mb-5 text-lg leading-relaxed">
-                    KonserKUY adalah platform ticketing konser terdepan di Indonesia yang didirikan pada tahun 2023. Kami berkomitmen untuk menyediakan pengalaman pembelian tiket konser yang mudah, aman, dan terpercaya bagi para penggemar musik dan event di seluruh Indonesia.
+                    KonserKUY adalah platform ticketing konser terdepan di Indonesia yang didirikan pada tahun 2025. Kami berkomitmen untuk menyediakan pengalaman pembelian tiket konser yang mudah, aman, dan terpercaya bagi para penggemar musik dan event di seluruh Indonesia.
                 </p>
                 <p class="text-slate-700 mb-5 text-lg leading-relaxed">
                     Sebagai platform yang menghubungkan event organizer dengan penggemar musik, KonserKUY memastikan setiap transaksi tiket berlangsung dengan transparan dan aman. Kami telah menjadi mitra tepercaya bagi ratusan penyelenggara konser dan event musik di Indonesia.
@@ -137,27 +137,27 @@
                     <div class="text-center hover-lift transition duration-300">
                         <div class="w-36 h-36 rounded-full bg-gradient-primary mx-auto mb-5 relative overflow-hidden shadow-xl">
                             <!-- Placeholder for actual photo -->
-                            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">JD</div>
+                            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">AR</div>
                         </div>
-                        <h3 class="font-bold text-slate-800 text-xl mb-1">John Doe</h3>
+                        <h3 class="font-bold text-slate-800 text-xl mb-1">Afif Ramadhan</h3>
                         <p class="text-slate-500">Chief Executive Officer</p>
                     </div>
                     
                     <div class="text-center hover-lift transition duration-300">
                         <div class="w-36 h-36 rounded-full bg-gradient-primary mx-auto mb-5 relative overflow-hidden shadow-xl">
                             <!-- Placeholder for actual photo -->
-                            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">JS</div>
+                            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">AF</div>
                         </div>
-                        <h3 class="font-bold text-slate-800 text-xl mb-1">Jane Smith</h3>
+                        <h3 class="font-bold text-slate-800 text-xl mb-1">Ahmad Fauzi</h3>
                         <p class="text-slate-500">Chief Technology Officer</p>
                     </div>
                     
                     <div class="text-center hover-lift transition duration-300">
                         <div class="w-36 h-36 rounded-full bg-gradient-primary mx-auto mb-5 relative overflow-hidden shadow-xl">
                             <!-- Placeholder for actual photo -->
-                            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">RJ</div>
+                            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">RUR</div>
                         </div>
-                        <h3 class="font-bold text-slate-800 text-xl mb-1">Robert Johnson</h3>
+                        <h3 class="font-bold text-slate-800 text-xl mb-1">Rihlatul Ula Rahmat</h3>
                         <p class="text-slate-500">Chief Marketing Officer</p>
                     </div>
                 </div>
